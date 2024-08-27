@@ -1,0 +1,16 @@
+{
+  "1": {
+    "roll": 1,
+    "name": "Abinash",
+    "age": 24,
+    "grade": 7,
+    "address": "Bagmati-12"
+  },
+  "2": {
+    "roll": 2,
+    "name": "John Doe",
+    "age": 21,
+    "grade": 8,
+    "address": "Kathmandu-10"
+  }
+}
